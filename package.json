@@ -5,6 +5,7 @@
   "repository": "git@github.com:sahksas/cesiumjs-demo.git",
   "author": "sahksas <baku@baku.world>",
   "license": "MIT",
+  "predeploy": "yarn",
   "dependencies": {
     "cesium": "^1.114.0"
   }
