@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:sahksas/cesiumjs-demo.git",
   "author": "sahksas <baku@baku.world>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cesium": "^1.114.0"
+  }
 }
