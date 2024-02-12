@@ -1,0 +1,8 @@
+{
+  "name": "cesiumjs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sahksas/cesiumjs-demo.git",
+  "author": "sahksas <baku@baku.world>",
+  "license": "MIT"
+}
